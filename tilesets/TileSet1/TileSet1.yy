@@ -1,5 +1,4 @@
 {
-  "name": "TileSet1",
   "spriteId": {
     "name": "sBackround",
     "path": "sprites/sBackround/sBackround.yy",
@@ -53,6 +52,7 @@
     "path": "folders/Tile Sets.yy",
   },
   "resourceVersion": "1.0",
+  "name": "TileSet1",
   "tags": [],
   "resourceType": "GMTileSet",
 }
